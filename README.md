@@ -19,4 +19,4 @@
 - Node.JS
 - Bash Shell
 
-<img src="https://img.shields.io/badge/Project-brightgreen?style=flat-square" href="https://github.com/JaehwanL/JaehwanL/blob/main/PROJECT.md"/></a> <img src="https://img.shields.io/badge/Education-yellowgreen?style=flat-square" href="https://github.com/JaehwanL"/></a>
+<img src="https://img.shields.io/badge/Project-brightgreen?style=flat-square&link=https://github.com/JaehwanL/JaehwanL/blob/main/PROJECT.md"/></a> <img src="https://img.shields.io/badge/Education-yellowgreen?style=flat-square" href="https://github.com/JaehwanL"/></a>
