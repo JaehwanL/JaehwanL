@@ -22,5 +22,5 @@
 
 ## Link
 - Project Detail Document : https://github.com/JaehwanL/JaehwanL/blob/main/PROJECT.md
-- Education Detail Document : 
+- Education Detail Document : https://github.com/JaehwanL/JaehwanL/blob/main/EDUCATION.md
 - Tech Notion : https://jhwan-tech.notion.site/Tech-914c6fbbd37d4484b2037a7f47d90bf0
