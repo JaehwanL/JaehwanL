@@ -80,7 +80,7 @@
 - Go, Python, Bash Script 등을 이용한 업무 자동화로 개발/운영 편의성 향상
 - 배포 효율성 증진을 위한 Kubernetes 배포 Resource Yaml 파일 자동 생성 CLI 개발
 - EC2 에 별도 설치된 Mysql, MongoDB, InfluxDB 의 Data Dump, System Log 관리를 자동화하는 Bash Shell Script 작성
-
+---
 # 케이씨씨정보통신
 - 부서명 : 정보기술연구소
 - 근무기간 : 2018.02.01 ~ 2020.06.05
