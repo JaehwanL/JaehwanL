@@ -6,7 +6,10 @@
 - AWS Cloud
 - Kubernetes
 - Istio Service Mesh
-- Terraform IaC
+- IaC
+  - AWS Cloudformation
+  - Terraform
+  - Ansible
 - CI/CD
   - Jenkins Pipe Line
   - Github Action
